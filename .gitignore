@@ -8,10 +8,10 @@
 .env.*.local
 
 # Log files
-/frontendnpm-debug.log*
-/frontendyarn-debug.log*
-/frontendyarn-error.log*
-/frontendpnpm-debug.log*
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
 
 # Editor directories and files
 .idea
